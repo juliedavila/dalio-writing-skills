@@ -7,6 +7,7 @@ Three Claude skills for writing work documents in the style of Ray Dalio: layere
 | [`dalio-decision-memo`](dalio-decision-memo/SKILL.md) | Decision memos and decision-meeting pre-reads |
 | [`dalio-strategy-analysis`](dalio-strategy-analysis/SKILL.md) | Strategy and planning docs; recurring status and risk reports |
 | [`dalio-diagnosis-principles`](dalio-diagnosis-principles/SKILL.md) | Postmortems and diagnoses (blameless by default); team operating principles |
+| [`dalio-technical-docs`](dalio-technical-docs/SKILL.md) | Technical docs (READMEs, paved-road guides, runbooks, reference, security findings, advisories, agent context files) and engineering design feedback, held to evidence on what readers can find, understand and act on |
 
 ## Install
 
